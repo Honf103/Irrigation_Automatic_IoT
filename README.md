@@ -7,3 +7,6 @@ You can use any Microprocessor or microcontroller. In this project, I will use A
 MQTT protocol is used in this project to connect from MQTT Broker to Smartphone.
 
 The severMQTT broker I use is AWS is provided free by HIVEMQ. So you can access this platform to use MQTT.
+
+
+ ![z5302986949603_781b1bb64930d007d8eba1977b29519d](https://github.com/Honf103/Irrigation_Automatic_IoT/assets/171224647/5c30246f-e8cd-4f0c-a084-de47132054a1)
